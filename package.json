@@ -1,5 +1,5 @@
 {
-  "name": "PG-ecom Tool",
+  "name": "pg-ecom-tool",
   "version": "2.0.0",
   "private": true,
   "dependencies": {
